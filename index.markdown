@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/hello.js"></script>
