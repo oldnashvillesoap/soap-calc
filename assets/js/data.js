@@ -25,7 +25,7 @@ data.targets = {
         cleansing: { min: 12 , max: 22 },
         bubbly: { min: 14 , max: 46 },
         stable: { min: 16 , max: 48 },
-        longevity: { min: 25 , max: 50 },
+        longevity: { min: 20 , max: 50 },
         condition: { min: 44 , max: 69 }
     }
 }
