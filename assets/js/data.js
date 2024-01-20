@@ -17,19 +17,6 @@ data.sapyOils = {
     docosadienoic: '22:2'
 };
 
-data.targets = {
-    ins: { min: 136 , max: 165 },
-    iodine: { min: 41 , max: 70 },
-    properties: {
-        hardness: { min: 29 , max: 54 },
-        cleansing: { min: 12 , max: 22 },
-        bubbly: { min: 14 , max: 46 },
-        stable: { min: 16 , max: 48 },
-        longevity: { min: 20 , max: 50 },
-        condition: { min: 44 , max: 69 }
-    }
-}
-
 data.oils = [
     { name:  "Abyssinian Oil" , ins: 70 , iodine: 98 , lauric: 0 , linoleic: 11 , linolenic: 4 , myristic: 0 , oleic: 18 , palmitic:  3 , ricinoleic:  0 , stearic: 2 , sap: 0.168 , eicosenoic: 0 , docosenoid: 0 , docosadienoic: 0 , erucic: 60 , caprylic:  0 , capric: 0 },
     { name:  "Almond Butter" , ins: 118 , iodine: 70 , lauric: 0 , linoleic: 16 , linolenic: 0 , myristic: 1 , oleic: 58 , palmitic:  9 , ricinoleic:  0 , stearic: 15 , sap: 0.188 , eicosenoic: 0 , docosenoid: 0 , docosadienoic: 0 , erucic: 0 , caprylic:  0 , capric: 0 },

@@ -7,3 +7,4 @@ layout: home
 ---
 <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
 <script src="{{ site.baseurl | prepend: site.url }}/assets/js/data.js"></script>
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/mixer.js"></script>
